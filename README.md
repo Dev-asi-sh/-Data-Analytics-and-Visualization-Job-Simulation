@@ -41,16 +41,32 @@ Social Buzz, a leading social media marketing firm, is facing challenges in opti
 -Changing the data type of some values within a column.
 -Removing columns which are not relevant to this task.
 
-My end Result are  three cleaned Data sets
+#### My end Result are  three cleaned Data sets
 - https://drive.google.com/file/d/1EP7Go5lKvA9ekxpJkRQexGhDOb_jgTso/view?usp=sharing
 - https://drive.google.com/file/d/1gSxUWUe09DhzlqqKjheWM98jmcxNom92/view?usp=sharing
 - https://drive.google.com/file/d/1tz6D96bT0A17t8STLc-6cDmDJ_-djOYW/view?usp=sharing
+
+#### Sheet 1
+![Screenshot 2024-08-07 183207](https://github.com/user-attachments/assets/a06bf5d4-f67a-474f-85be-265a826aa694)
+
+
+#### Sheet 2
+![Screenshot 2024-08-07 183330](https://github.com/user-attachments/assets/4a33e4af-05b1-4fa4-b3c8-afe74f714f16)
+
+#### Sheet 3
+![Screenshot 2024-08-07 183238](https://github.com/user-attachments/assets/d8fbfc0f-3292-49cc-949f-78c235db7c80)
+  
 ## Data Modeling
  In this phase I create a final data set by merging the three table, where Reacation table is the base table, then first join the relevent columns from Content data set, and then the Reaction Types data set by useing " VLookUP ".
  and  also find out the Top 5 performing categories.
  The end result is
  - A cleaned data set : https://drive.google.com/file/d/168b7-X1FYiOAhieXgVp3fsdEoznpq36Z/view?usp=sharing
+
+![Screenshot 2024-08-07 183445](https://github.com/user-attachments/assets/5147f949-d93c-41e9-91d9-03fd07a38c3a)
+   
  - The top 5 Categories: https://drive.google.com/file/d/1ad-AJ216oHkwH0w39yXq84Y2hRfR_VYZ/view?usp=sharing
+
+
 
 ## Data Visualization
 
