@@ -13,13 +13,15 @@ Forage - July 2024
 ### Client: Social Buzz
 #### Client Brief: https://drive.google.com/file/d/1ALrbYvXueK7uiaJOYIkChY2w5MvnK8Nn/view?usp=sharing
 
-### Project Lead: Mae Mulligan, Managing Director at Accenture
 
+### Project Lead: Mae Mulligan, Managing Director at Accenture
+#### Project Team : https://drive.google.com/file/d/1G1G6O-YhHHrXxwSOE9gDEy7hh4rY223O/view?usp=sharing
 ### Business Problem
 Social Buzz, a leading social media marketing firm, is facing challenges in optimizing their social media campaigns and accurately measuring their impact. Despite having a robust online presence, Social Buzz struggles with:
-## Data Source
--
-_
+## Data Source:The bellow are the raw data set...
+- https://drive.google.com/file/d/1-vFB4DJOfN1LvimWH5BGwVO3QYZzmjp3/view?usp=sharing
+- https://drive.google.com/file/d/182ImylMUdPk25iR2pkMieB__D3O0adIO/view?usp=sharing
+- https://drive.google.com/file/d/1IKFl2e72dcbsqxNm-OZG_Hl14er3xaAN/view?usp=sharing
 
 ### Campaign Performance Analysis:
 
