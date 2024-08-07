@@ -25,6 +25,13 @@ Social Buzz, a leading social media marketing firm, is facing challenges in opti
 - https://drive.google.com/file/d/1-vFB4DJOfN1LvimWH5BGwVO3QYZzmjp3/view?usp=sharing
 - https://drive.google.com/file/d/182ImylMUdPk25iR2pkMieB__D3O0adIO/view?usp=sharing
 - https://drive.google.com/file/d/1IKFl2e72dcbsqxNm-OZG_Hl14er3xaAN/view?usp=sharing
+#### Sheet 1
+![Screenshot 2024-08-07 182443](https://github.com/user-attachments/assets/50682eee-4c14-4a1b-b159-1683db65766c)
+
+#### Sheet 2
+![Screenshot 2024-08-07 182545](https://github.com/user-attachments/assets/4f9c901f-55eb-4fbc-8a9c-917f6ede9753)
+#### Sheet 3
+![Screenshot 2024-08-07 182617](https://github.com/user-attachments/assets/6de41b20-d62c-4732-8378-bc6953688d69)
 
 ![Screenshot 2024-08-07 180725](https://github.com/user-attachments/assets/5c6abf8a-9681-4778-944f-869a7ecfe609)
 
