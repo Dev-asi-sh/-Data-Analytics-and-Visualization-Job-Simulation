@@ -16,12 +16,17 @@ Forage - July 2024
 
 ### Project Lead: Mae Mulligan, Managing Director at Accenture
 #### Project Team : https://drive.google.com/file/d/1G1G6O-YhHHrXxwSOE9gDEy7hh4rY223O/view?usp=sharing
+
+![Screenshot 2024-08-07 180630](https://github.com/user-attachments/assets/7904d28d-c5c1-4c7c-9bf1-355b6c53b76b)
+
 ### Business Problem
 Social Buzz, a leading social media marketing firm, is facing challenges in optimizing their social media campaigns and accurately measuring their impact. Despite having a robust online presence, Social Buzz struggles with:
 ## Data Source:The bellow are the raw data set provided by Social Buzz
 - https://drive.google.com/file/d/1-vFB4DJOfN1LvimWH5BGwVO3QYZzmjp3/view?usp=sharing
 - https://drive.google.com/file/d/182ImylMUdPk25iR2pkMieB__D3O0adIO/view?usp=sharing
 - https://drive.google.com/file/d/1IKFl2e72dcbsqxNm-OZG_Hl14er3xaAN/view?usp=sharing
+
+![Screenshot 2024-08-07 180725](https://github.com/user-attachments/assets/5c6abf8a-9681-4778-944f-869a7ecfe609)
 
  ## Data Cleaning
  In this phase i do the following's
@@ -42,6 +47,11 @@ My end Result are  three cleaned Data sets
 
 ## Data Visualization
 
+![Screenshot 2024-08-07 180752](https://github.com/user-attachments/assets/457e30d8-b5aa-48d5-b454-09be974a4c03)
+
+![Screenshot 2024-08-07 180819](https://github.com/user-attachments/assets/f068f04f-598f-472b-9d4e-b4bd989ce952)
+
+![Screenshot 2024-08-07 180846](https://github.com/user-attachments/assets/f5eecf9b-2638-4db9-8fa9-2dc2d5909fd2)
 ### Campaign Performance Analysis:
 
 Difficulty in tracking and analyzing the performance of various social media campaigns.
