@@ -20,7 +20,38 @@ Forage - July 2024
 ![Screenshot 2024-08-07 180630](https://github.com/user-attachments/assets/7904d28d-c5c1-4c7c-9bf1-355b6c53b76b)
 
 ### Business Problem
-Social Buzz, a leading social media marketing firm, is facing challenges in optimizing their social media campaigns and accurately measuring their impact. Despite having a robust online presence, Social Buzz struggles with:
+Social Buzz, a leading social media marketing firm, is facing challenges in optimizing their social media campaigns and accurately measuring their impact. 
+
+## Project Overview
+
+This repository contains the work I completed as part of an Accenture job simulation program. The project involved working on a brief provided by Social Buzz, a client of Accenture, under the guidance of Mae Mulligan, one of Accenture’s Managing Directors.
+
+### Objectives
+
+- Understand the client and business problem at hand.
+- Identify the requirements that need to be delivered for this project.
+- Identify tasks to focus on as a Data Analyst.
+
+
+## Key Tasks and Deliverables
+
+### As a Data Analyst, my focus included:
+
+1. **Understanding the Client and Business Problem**:
+    - Analyzing the client’s business problem and the context in which they operate.
+    - Reviewing the project brief and relevant data to understand the objectives.
+
+2. **Identifying Requirements**:
+    - Determining the data requirements for the project.
+    - Identifying key performance indicators (KPIs) and metrics to track.
+
+3. **Executing Tasks**:
+    - Collecting and cleaning data relevant to the project.
+    - Conducting data analysis to derive insights.
+    - Preparing visualizations and reports to communicate findings.
+
+
+
 ## Data Source:The bellow are the raw data set provided by Social Buzz
 - https://drive.google.com/file/d/1-vFB4DJOfN1LvimWH5BGwVO3QYZzmjp3/view?usp=sharing
 - https://drive.google.com/file/d/182ImylMUdPk25iR2pkMieB__D3O0adIO/view?usp=sharing
@@ -66,7 +97,7 @@ Social Buzz, a leading social media marketing firm, is facing challenges in opti
    
  - The top 5 Categories: https://drive.google.com/file/d/1ad-AJ216oHkwH0w39yXq84Y2hRfR_VYZ/view?usp=sharing
 
-
+![Screenshot 2024-08-07 184331](https://github.com/user-attachments/assets/6e7494f4-4d23-4cb4-8461-22bd89926011)
 
 ## Data Visualization
 
@@ -75,74 +106,13 @@ Social Buzz, a leading social media marketing firm, is facing challenges in opti
 ![Screenshot 2024-08-07 180819](https://github.com/user-attachments/assets/f068f04f-598f-472b-9d4e-b4bd989ce952)
 
 ![Screenshot 2024-08-07 180846](https://github.com/user-attachments/assets/f5eecf9b-2638-4db9-8fa9-2dc2d5909fd2)
-### Campaign Performance Analysis:
-
-Difficulty in tracking and analyzing the performance of various social media campaigns.
-Inadequate metrics to measure the effectiveness and return on investment (ROI) of their campaigns.
-### Data Integration:
-
-Challenges in integrating data from multiple social media platforms.
-Lack of a unified view of campaign performance across different channels.
-### Insights and Decision Making:
-
-Insufficient actionable insights to guide strategic decision-making.
-Difficulty in identifying trends and patterns that could enhance campaign effectiveness.
-Project Requirements
-As a Data Analyst, your role in this project involves:
-
-### Data Collection and Cleaning:
-
-Gather relevant data from various social media platforms.
-Ensure the data is clean, accurate, and ready for analysis.
-### Performance Metrics:
-
-Identify key performance indicators (KPIs) to measure campaign success.
-Develop metrics that provide a clear view of campaign performance and ROI.
-### Data Integration:
-
-Integrate data from different sources to create a unified dataset.
-Ensure seamless data flow and consistency across platforms.
-### Data Analysis and Visualization:
-
-Analyze the integrated data to uncover insights and trends.
-Create visualizations and reports to effectively communicate findings.
-### Recommendations:
-
-Provide actionable recommendations to optimize future social media campaigns.
-Suggest strategies to improve data integration and campaign performance measurement.
 
 
-## Project Overview
+### Insights 
 
-This repository contains the work I completed as part of an Accenture job simulation program. The project involved working on a brief provided by Social Buzz, a client of Accenture, under the guidance of Mae Mulligan, one of Accenture’s Managing Directors.
-
-## Project Brief
-
-Mae Mulligan reviewed the brief provided by Social Buzz and assembled a diverse team of Accenture experts to deliver the project. The project kickoff call was scheduled to align the internal Accenture project team.
-
-### Objectives
-
-- Understand the client and business problem at hand.
-- Identify the requirements that need to be delivered for this project.
-- Identify tasks to focus on as a Data Analyst.
-
-## Key Tasks and Deliverables
-
-### As a Data Analyst, my focus included:
-
-1. **Understanding the Client and Business Problem**:
-    - Analyzing the client’s business problem and the context in which they operate.
-    - Reviewing the project brief and relevant data to understand the objectives.
-
-2. **Identifying Requirements**:
-    - Determining the data requirements for the project.
-    - Identifying key performance indicators (KPIs) and metrics to track.
-
-3. **Executing Tasks**:
-    - Collecting and cleaning data relevant to the project.
-    - Conducting data analysis to derive insights.
-    - Preparing visualizations and reports to communicate findings.
-
+- Animals and science are the two most popular categories of content.
+- Food is a common theme with the top 5 categories with “Healthy Eating ”ranking the highest. This may give an audience with in your user base.
+-  You could use this insight to create a campaign and work with healthy eating brand to boost user engagement
 
 
 ## Conclusion
@@ -154,7 +124,7 @@ This project provided valuable experience in understanding and addressing client
 - Thanks to Accenture for providing this simulation program.
 - Special thanks to Mae Mulligan for her guidance and support.
 
----
+
 
 Feel free to explore the repository to see the detailed work and analysis performed during the project.
 
