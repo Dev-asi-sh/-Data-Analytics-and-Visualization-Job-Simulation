@@ -128,3 +128,14 @@ This project provided valuable experience in understanding and addressing client
 
 Feel free to explore the repository to see the detailed work and analysis performed during the project.
 
+## Requirements
+- Power point
+- Excel
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## Contact
+For any questions or feedback, please contact me at [debasishdebasish57@gmail.com].
+
